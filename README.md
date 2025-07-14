@@ -24,6 +24,19 @@
   <li><strong>NewsAPI</strong> – Real-time news data source</li>
 </ul>
 
+<h2>🚀 How to Use</h2>
+<ol>
+  <li>Clone or download this repository</li>
+  <li>Install dependencies using <code>npm install</code></li>
+  <li>Replace the placeholder API key in your environment file:
+    <pre><code>REACT_APP_NEWS_API_KEY=your_api_key_here</code></pre>
+  </li>
+  <li>Start the app locally:
+    <pre><code>npm start</code></pre>
+  </li>
+  <li>Explore real-time news from various categories</li>
+</ol>
+
 <br>
 <div align="center" style="font-size: 0.9em; opacity: 0.6;">
   Made with ❤️ by <em>Ishita Gupta</em>
