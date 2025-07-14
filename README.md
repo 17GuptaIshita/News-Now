@@ -1,12 +1,30 @@
-# React + Vite
+<h1>📰News Now</h1>
+<p>
+  <strong>News Now</strong> is a real-time news aggregation web application built with <strong>React.js</strong>, powered by the <a href="https://newsapi.org" target="_blank"><strong>NewsAPI</strong></a>.
+  It delivers the latest headlines from reliable global and local sources, presented in a clean, responsive, and modern UI.
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+<h2>✨Features</h2>
+<ul>
+  <li>Real-time news updates</li>
+  <li>Category-based browsing (e.g., business, sports, tech)</li>
+  <li>Search functionality for specific topics</li>
+  <li>Responsive and mobile-friendly interface</li>
+  <li>Fast and dynamic React components</li>
+</ul>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+<h2>🛠️Technologies Used</h2>
+<ul>
+  <li><strong>React.js</strong> – Component-based architecture and UI</li>
+  <li><strong>HTML5</strong> – Semantic markup and structure</li>
+  <li><strong>CSS3</strong> – Styling and layout</li>
+  <li><strong>JavaScript (ES6+)</strong> – Logic and interactivity</li>
+  <li><strong>NewsAPI</strong> – Real-time news data source</li>
+</ul>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<br>
+<div align="center" style="font-size: 0.9em; opacity: 0.6;">
+  Made with ❤️ by <em>Ishita Gupta</em>
+</div>
