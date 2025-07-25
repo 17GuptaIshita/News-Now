@@ -39,5 +39,5 @@
 
 <br>
 <div align="center" style="font-size: 0.9em; opacity: 0.6;">
-  Made with ❤️ by <em>Ishita Gupta</em>
+  All Rights Reserved. Made with ❤️ by <em>Ishita Gupta</em>
 </div>
