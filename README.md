@@ -4,6 +4,9 @@
   It delivers the latest headlines from reliable global and local sources, presented in a clean, responsive, and modern UI.
 </p>
 
+<p>
+  📺 <a href="https://drive.google.com/file/d/1WK2Y_Oyn6dYsC6GBhfKOi8Gordhl300E/view?usp=sharing" target="_blank"><strong>View Demo</strong></a>
+</p>
 
 <h2>✨Features</h2>
 <ul>
@@ -13,7 +16,6 @@
   <li>Responsive and mobile-friendly interface</li>
   <li>Fast and dynamic React components</li>
 </ul>
-
 
 <h2>🛠️Technologies Used</h2>
 <ul>
